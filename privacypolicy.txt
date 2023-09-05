@@ -1,0 +1,21 @@
+## StarWatch: Privacy policy
+
+Welcome to the ScienceExplorer app for Android!
+
+I have written no code to collect any personally identifiable information. The app aggregates Astronomy, Physics and other Youtube science channels and presents them to the user.
+
+### Explanation of permissions requested in the app
+
+The list of permissions required by the app 
+    android.permission.INTERNET
+    android.permission.ACCESS_WIFI_STATE
+    android.permission.ACCESS_NETWORK_STATE
+    android.permission.CHANGE_NETWORK_STATE
+
+android.permission.INTERNET -- The app needs to connect to Youtube servers to fetch images. 
+android.permission.ACCESS_WIFI_STATE, ACCESS_NETWORK_STATE, CHANGE_NETWORK_STATE -- The app tracks network availability. If the network is unavailable some functionality must be turned off. 
+
+If you have any questions, concerns or suggestions, feel free to contact me:
+TheTinkerersShop@gmail.com
+## ScienceExplorer: Privacy policy
+
